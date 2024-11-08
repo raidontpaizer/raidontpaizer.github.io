@@ -1,2 +1,5 @@
-# raidopaizer.github.io
-nawhhhhhhhhhhhhhhhhhhhhhh
+## REPO OF RaID!!!!!!!!!!!!!!
+
+```
+feel so sigma
+```
