@@ -1,6 +1,6 @@
 @font-face {
         font-family: 'SMREG';
-        src: url('spacemono.ttf')  format('truetype');
+        src: url('/spacemono.ttf')  format('truetype');
 }
 
 @keyframes rotation {
