@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Request Form</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+  <link rel="icon" href="/favicon.ico">
+  <meta name="theme-color" content="#df9ca0">
+</head>
+<body>
+  <div id="loader-wrapper">
+    <div class="loader"></div>
+  </div>
+ <center>
+  <header>
+    <h1>Submit Rom Request</h1>
+  </header>
+  <nav class="nav" id="nav">
+  </nav>
+  <main>
+
+<!-- method="POST" -->
+<!-- action="appurl" -->
+    <form 
+  method=""  
+  action=""
+>
+  <input name="Name" type="text" placeholder="Name" required disabled="true">
+  <input name="Rom" type="text" placeholder="Rom name" required disabled="true">
+  <button class="button" type="submit" disabled="true">Submit</button>
+</form>
+  </main>
+  <footer></footer>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
+ 
+  <script type="text/javascript">
+    $(window).on('load', function() {
+      $("#loader-wrapper").fadeOut(700);
+    });
+  </script>
+  </center>
+</body>
+</html>
