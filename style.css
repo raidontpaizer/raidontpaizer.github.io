@@ -92,3 +92,13 @@ body {
   box-shadow: rgba(166, 227, 161, .2) 0 1px 0 inset;
 }
 
+
+input {
+    width: 20%;
+  padding: 10px 6px;
+  margin: 12px 0;
+  background-color: #181825;
+  color: #a6e3a1;
+  border: none;
+  border-radius: 6px;
+}
