@@ -1,5 +1,5 @@
 ## REPO OF RaID!!!!!!!!!!!!!!
 
 ```
-feel so sigma
+yep, not using this anymore. I have a raspberry pi now!!!!!!!
 ```
